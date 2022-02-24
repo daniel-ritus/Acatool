@@ -96,7 +96,7 @@ input[type="submit"]:hover{/*Para hacer clic cambie de color*/
 }
 
 .inicio-sesion a{
-    padding-left: 80px;
+    padding-left: 155px;
     font-size: 30px;
     color:#000;
 }
@@ -128,18 +128,7 @@ input[type="submit"]:hover{/*Para hacer clic cambie de color*/
     padding: 5px 0px 0px 45px;
     font-size: 24px;
     font-style: italic;
-
 }
 
 
 
-
-
-/*.final .logo{
-    width: 60px;
-    height: 0px;
-    top: 10%;
-    transform: translate(0%, 0%);
-    right: 200px;
-    position: absolute;/*Es para que sea adelante bien melito
-}*/
